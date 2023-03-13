@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mirror Game</string>
+    <string name="copyright">Авторские права</string>
+    <string name="Start">Начинать</string>
+    <string name="Next">Следующий</string>
+    <string name="name">Имя</string>
+    <string name="fullname">ФИО</string>
+    <string name="button">Кнопка</string>
+    <string name="id">Я БЫ</string>
+    <string name="startagain">Начать зановоВыйти</string>
+    <string name="Exit">Выход</string>
+    <string name="upload">ЗАГРУЗИТЬ</string>
+    <string name="stop">Останавливаться</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="connection">связь</string>
+    <string name="timeBetweenPoints">Время между точками</string>
+    <string name="milliseconds">миллис</string>
+    <string name="newEntry">новая запись</string>
+    <string name="errorNameOrId">Имя и/или идентификатор введены неправильно</string>
+    <string name="uploading">Загрузка на Google Диск Подождите...</string>
+    <string name="createFolderSuccessfully">Создать папку успешно</string>
+    <string name="createFolderFail">Ошибка создания папки</string>
+    <string name="uploadedSuccessfully">Загружено успешно</string>
+    <string name="uploadedFail">Ошибка загрузки</string>
+    <string name="checkAPI">Проверьте свой ключ API Google Диска</string>
+    <string name="driveServiceHelperFail">Сбой помощника по обслуживанию дисков</string>
+    <string name="readFile">Прочитать файл</string>
+    <string name="nameFile">Имя файла</string>
+    <string name="previous">предыдущий</string>
+    <string name="ConnectionStatus">Состояние подключения</string>
+    <string name="WifiOn">Wi-Fi</string>
+    <string name="discover">обнаружить</string>
+    <string name="Message">Сообщение</string>
+    <string name="Send">Отправлять</string>
+    <string name="on">НА</string>
+    <string name="off">ВЫКЛЮЧЕННЫЙ</string>
+    <string name="DiscoveryStarted">Открытие началось</string>
+    <string name="DiscoverynotStarted">Обнаружение не началось</string>
+    <string name="noDeviceFound">Устройство не найдено</string>
+    <string name="connected">Связано</string>
+    <string name="notConnected">Не подключен</string>
+    <string name="host">Хозяин</string>
+    <string name="client">Клиент</string>
+    <string name="startwith">чать с</string>
+    <string name="seconds">секунды</string>
+    <string name="loc">местный</string>
+    <string name="email">электронная</string>
+    <string name="password">пароль</string>
+    <string name="connect">Подключить</string>
+    <string name="disconnected">отключен</string>
+    <string name="errorFirebase">Ошибка при подключении к firebase</string>
+    <string name="error">ошибка</string>
+    <string name="Time_between_rounds">Время между раундами</string>
+
+
+    <string name="dot1">точка1</string>
+    <string name="dot2">точка2</string>
+    <string name="dot3">точка3</string>
+    <string name="dot4">точка4</string>
+    <string name="dot5">точка5</string>
+    <string name="dot6">точка6</string>
+    <string name="dot7">точка7</string>
+    <string name="dot8">точка8</string>
+    <string name="dot9">точка9</string>
+    <string name="dot10">точка10</string>
+    <string name="dot11">точка11</string>
+
+    <string name="P2P">P2P</string>
+    <string name="send">Отправить</string>
+    <string name="keyNextScreen">EO-1NAORSASI</string>
+    <string name="keyBackScreen">EO-2NAORSASI</string>
+    <string name="WifiP2P">WifiP2P</string>
+    <string name="screenGame">screenGame</string>
+    <string name="pointRedINVISIBLEN">pointRedINVISIBLENaorSasi</string>
+    <string name="StopServerOrCliect">!EOF</string>
+    <string name="user_successfully">Пользователь успешно зарегистрирован</string>
+    <string name="user_not_registered">Пользователь не может быть зарегистрирован</string>
+
+</resources>

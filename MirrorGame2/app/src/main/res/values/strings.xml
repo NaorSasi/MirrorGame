@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Mirror Game</string>
+    <string name="copyright">Copyright</string>
+    <string name="Start">Start</string>
+    <string name="Next">Next</string>
+    <string name="name">Name</string>
+    <string name="fullname">Full Name</string>
+    <string name="button">Button</string>
+    <string name="id">ID</string>
+    <string name="startagain">Start Again</string>
+    <string name="Exit">Exit</string>
+    <string name="upload">UPLOAD</string>
+    <string name="stop">Stop</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="connection">connection</string>
+    <string name="timeBetweenPoints">Time between points</string>
+    <string name="milliseconds">millis</string>
+    <string name="newEntry">new entry</string>
+    <string name="errorNameOrId">Name or/and Id entered incorrectly</string>
+    <string name="uploading">Uploading to Google Drive Please wait...</string>
+    <string name="createFolderSuccessfully">Create folder successfully</string>
+    <string name="createFolderFail">Create folder fail</string>
+    <string name="uploadedSuccessfully">Uploaded successfully</string>
+    <string name="uploadedFail">Uploaded fail</string>
+    <string name="checkAPI">Check your google drive api key</string>
+    <string name="driveServiceHelperFail">Drive service helper fail</string>
+    <string name="readFile">Read file</string>
+    <string name="nameFile">Name file</string>
+    <string name="previous">previous</string>
+    <string name="ConnectionStatus">Connection Status</string>
+    <string name="WifiOn">Wifi</string>
+    <string name="discover">discover</string>
+    <string name="Message">Message</string>
+    <string name="Send">Send</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="DiscoveryStarted">Discovery Started</string>
+    <string name="DiscoverynotStarted">Discovery not Started</string>
+    <string name="noDeviceFound">No Device Found</string>
+    <string name="connect">Connect</string>
+    <string name="disconnected">disconnected</string>
+
+    <string name="connected">Connected</string>
+    <string name="notConnected">Not Connected</string>
+    <string name="host">Host</string>
+    <string name="client">Client</string>
+    <string name="startwith">start with</string>
+    <string name="seconds">seconds</string>
+    <string name="loc">loc</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="errorFirebase">There is an error connecting to firebase</string>
+    <string name="error">error</string>
+    <string name="Time_between_rounds">Time between rounds</string>
+
+    <string name="dot1">dot1</string>
+    <string name="dot2">dot2</string>
+    <string name="dot3">dot3</string>
+    <string name="dot4">dot4</string>
+    <string name="dot5">dot5</string>
+    <string name="dot6">dot6</string>
+    <string name="dot7">dot7</string>
+    <string name="dot8">dot8</string>
+    <string name="dot9">dot9</string>
+    <string name="dot10">dot10</string>
+    <string name="dot11">dot11</string>
+
+    <string name="P2P">P2P</string>
+    <string name="send">Send</string>
+    <string name="keyNextScreen">EO-1NAORSASI</string>
+    <string name="keyBackScreen">EO-2NAORSASI</string>
+    <string name="WifiP2P">WifiP2P</string>
+    <string name="screenGame">screenGame</string>
+    <string name="pointRedINVISIBLEN">pointRedINVISIBLENaorSasi</string>
+    <string name="StopServerOrCliect">!EOF</string>
+
+    <string name="user_successfully">User registered successfully</string>
+    <string name="user_not_registered">User could not be registered</string>
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "715028569592",
+    "firebase_url": "https://mirrorgame-f3b83-default-rtdb.firebaseio.com",
+    "project_id": "mirrorgame-f3b83",
+    "storage_bucket": "mirrorgame-f3b83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715028569592:android:9fb8f641ab2a9261f54a0d",
+        "android_client_info": {
+          "package_name": "com.mirrorgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715028569592-8ocmoluo5ag14s2jcrqpvnor2ffj6ihf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuwF4MRfI-bBIo59oim1MOxRHL7ONlTXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715028569592-8ocmoluo5ag14s2jcrqpvnor2ffj6ihf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
